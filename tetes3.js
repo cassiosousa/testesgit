@@ -1,7 +1,11 @@
+function teste3(){
+	console.log("fucn3")
+}
+
 function teste4(){
-<<<<<<< HEAD
-	console.log()
-=======
 	console.log("fucn1")
->>>>>>> 986a410... função 2
+}
+
+function testef5(){
+	console.log("teste")
 }
